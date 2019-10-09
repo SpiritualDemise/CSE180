@@ -1,0 +1,2 @@
+LMS1xx:assignments:husky/husky_base:husky/husky_bringup:husky/husky_control:husky/husky_description:husky/husky_desktop:husky/husky_gazebo:husky/husky_msgs:husky/husky_navigation:husky/husky_robot:husky/husky_simulator:husky/husky_viz:interactive_marker_twist_server
+-DCATKIN_DEVEL_PREFIX=/home/urabe/Documents/CSE180/devel -DCMAKE_INSTALL_PREFIX=/home/urabe/Documents/CSE180/install -G Unix Makefiles

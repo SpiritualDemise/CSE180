@@ -1,0 +1,8 @@
+prefix=/home/urabe/Documents/CSE180/install
+
+Name: lms1xx
+Description: Description of lms1xx
+Version: 0.1.6
+Cflags: 
+Libs: -L/home/urabe/Documents/CSE180/install/lib 
+Requires: roscpp

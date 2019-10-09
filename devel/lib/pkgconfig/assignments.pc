@@ -1,0 +1,8 @@
+prefix=/home/urabe/Documents/CSE180/devel
+
+Name: assignments
+Description: Description of assignments
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/urabe/Documents/CSE180/devel/lib 
+Requires: 
